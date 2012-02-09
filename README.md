@@ -2,6 +2,10 @@
 Quick and dirty implemenentation (maintained and poor yet) for parsing and setting 
 the Facebook Session Cookie (FBSR) on the on going request.
 
+#### Installation
+	
+	[sudo] npm install facebook-session-express
+
 #### Sample Usage
 
 	var facebook = require('facebook-session-express');
