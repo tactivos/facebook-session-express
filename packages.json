@@ -1,0 +1,11 @@
+{
+  "name":"facebook-session-connection",
+  "description": "Facebook Cookie (FBSR) parser for Express/Connect",
+  "version":"0.0.1",
+  "author": "Johnny G. Halife (tactivos)",
+  "main": "./lib/index.js",
+  "dependencies": {
+      "base64":"",
+      "crypto":"",
+  }
+}
