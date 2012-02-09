@@ -21,4 +21,4 @@ Proudly built using node.js using npm.
 
 ### Meta
 
-Written by [@johnnyhalife][http://twitter.com/johnnyhalife] for Tactivos under `do the whatever you want license`
+Written by (@johnnyhalife)(http://twitter.com/johnnyhalife) for Tactivos under `do the whatever you want license`
