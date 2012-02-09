@@ -1,8 +1,8 @@
-# Facebook Cookie (FBSR) parser for Express/Connect
+## Facebook Cookie (FBSR) parser for Express/Connect
 Quick and dirty implemenentation (maintained and poor yet) for parsing and setting 
 the Facebook Session Cookie (FBSR) on the on going request.
 
-### Sample Usage
+#### Sample Usage
 
 	var facebook = require('facebook-session-express');
 
@@ -14,11 +14,11 @@ the Facebook Session Cookie (FBSR) on the on going request.
     	var user = req.facebook.session; /* this is how you access your session */
     });
 
-## Requirements
+### Requirements
 
 Proudly built using node.js using npm.
 
 
-## Meta
+### Meta
 
 Written by @johnnyhalife for Tactivos under `do the whatever you want license`
