@@ -1,5 +1,5 @@
 {
-  "name": "facebook-session-connection",
+  "name": "facebook-session-express",
   "description": "Facebook Cookie (FBSR) parser for Express/Connect",
   "version": "0.0.1",
   "author": "Johnny G. Halife (johnny@tactivos.com)",
